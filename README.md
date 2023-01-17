@@ -2,7 +2,7 @@ Refilwe Magwaneng
 
 
 Hey there 👋🏽. 
-I am Ref. I am a web developer, and a lover of all things process and systems🛠⚙💻
+I am Ref. I am a developer, and a lover of all things process and systems🛠⚙💻
 <i class="fa fa-cogs" aria-hidden="true"></i> 
 
 
